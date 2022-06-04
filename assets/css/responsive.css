@@ -1,0 +1,510 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.12,
+* Autoprefixer: v10.4.4
+* Browsers: last 4 version
+*/
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .wapper_content h1 {
+        font-size: 36px;
+    }
+
+    .wapper_content h3 {
+        font-size: 24px;
+    }
+
+    .wapper_content h5 {
+        font-size: 24px;
+    }
+
+    .logo_4doctor {
+        margin-top: 20px;
+    }
+
+    .wapper_one .checkbox_area {
+        padding-top: 30px;
+        padding-right: 20px;
+    }
+
+    .extra-btn {
+        padding: 10px 90px;
+    }
+
+    .client h5 {
+        font-size: 20px;
+    }
+
+    .modulo_text p {
+        font-size: 17px;
+        padding: 9px;
+        padding-top: 0px;
+    }
+
+    .author {
+        padding: 100px 0px;
+    }
+
+    .margin_remove {
+        margin: 0;
+        padding: 0;
+    }
+
+    .effect_two {
+        display: none;
+    }
+
+    .effect {
+        display: none;
+    }
+}
+
+@media all and (max-width:991px) {
+    .extra-btn {
+        padding: 12px 100px;
+    }
+
+    .wapper_ftr_logo img {
+        padding-left: 0px;
+    }
+
+    .wapper_content {
+        padding: 30px 0;
+    }
+
+    .wapper_right {
+        padding: 60px 50px;
+    }
+
+    .main_hero {
+        padding: 10px 0;
+    }
+
+    .client {
+        padding-bottom: 25px;
+    }
+
+    .author {
+        padding: 100px 0px;
+    }
+
+    .author-img {
+        text-align: center;
+    }
+
+    .author-heading {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .heading-text h2 {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .author-img img {
+        margin-bottom: 15px;
+    }
+
+    .author-content .img img {
+        top: -100px;
+        left: 39%;
+    }
+
+    .author-content .flag img {
+        left: 56%;
+    }
+
+    .author-box {
+        margin-bottom: 70px;
+        margin-top: 80px;
+    }
+
+    .custom_margin {
+        margin-top: 40px;
+    }
+
+    .profesional-row {
+        height: 200px;
+        padding: 30px 20px;
+    }
+
+    .profesional h1 {
+        font-size: 33px;
+        line-height: 46px;
+    }
+
+    .profesional {
+        background: #032d5f;
+        padding: 45px 20px;
+    }
+
+    .footer {
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    .fotter-text p {
+        padding-top: 51px;
+        padding-bottom: 40px;
+    }
+
+    .margin_remove {
+        margin: 0;
+        padding: 0;
+    }
+
+    .modulo h3 {
+        padding-left: 20px;
+    }
+
+    .effect_two {
+        display: none;
+    }
+
+    .effect {
+        display: none;
+    }
+}
+
+@media all and (max-width:767px) {
+    .wapper_content h1 {
+        font-size: 42px;
+        padding: 30px 0;
+    }
+
+    .wapper_content {
+        padding: 20px 0;
+    }
+
+    .wapper_content h3 {
+        font-size: 30px;
+    }
+
+    .wapper_right {
+        padding: 40px 50px;
+    }
+
+    .wapper_content h5 {
+        font-size: 30px;
+    }
+
+    .wapper_one .checkbox_area {
+        padding-right: 20px;
+    }
+
+    .hero_text {
+        padding: 0px 11px;
+    }
+
+    .author-head-text ul li,
+    p {
+        font-size: 17px;
+    }
+
+    .profesional h1 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+
+    .profesional p {
+        font-size: 22px;
+    }
+
+    .video_bg {
+        height: 280px;
+    }
+
+    .play_btn img {
+        margin-top: 80px;
+    }
+}
+
+@media all and (max-width:577px) {
+    .logo_section {
+        padding-bottom: 20px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .logo_4doctor {
+        margin-top: 20px;
+    }
+
+    .wapper_content h1 {
+        font-size: 34px;
+        padding: 30px 0;
+    }
+
+    .wapper_content h3 {
+        font-size: 23px;
+    }
+
+    .wapper_content h5 {
+        font-size: 23px;
+    }
+
+    .wapper_ftr_logo {
+        padding-top: 20px;
+    }
+
+    .heading-text h2 {
+        font-size: 22px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .author-content .img img {
+        top: -100px;
+        left: 30%;
+    }
+
+    .profesional h1 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .profesional p {
+        font-size: 20px;
+    }
+
+    .video_bg {
+        height: 200px;
+    }
+
+    .play_btn img {
+        margin-top: 50px;
+    }
+
+    .margin_remove {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        margin-left: -36px;
+        padding-left: 36px;
+    }
+}
+
+@media all and (max-width:480px) {
+    .wapper_right {
+        padding: 40px 20px;
+    }
+
+    .wapper_left {
+        padding-left: 20px;
+    }
+
+    .wapper_content h1 {
+        font-size: 31px;
+        padding: 30px 0;
+    }
+
+    .extra-btn {
+        padding: 5px 40px;
+    }
+
+    .wapper_content h3 {
+        font-size: 20px;
+    }
+
+    .wapper_content h5 {
+        font-size: 20px;
+    }
+
+    .hero_text p {
+        font-size: 17px;
+    }
+
+    .register-btn {
+        padding-top: 20px;
+        margin-left: 0px;
+    }
+
+    .author_head_part {
+        padding: 50px 10px;
+    }
+
+    .heading-text h2 {
+        font-size: 19px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .author-head-text ul li,
+    p {
+        font-size: 16px;
+    }
+
+    .author-box .text p {
+        font-size: 19px;
+    }
+
+    .profesional h1 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .profesional-row p {
+        font-size: 18px;
+    }
+
+    .profesional p {
+        font-size: 18px;
+    }
+
+    .modulo h3 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+}
+
+@media all and (max-width:400px) {
+    .wapper_content h1 {
+        font-size: 29px;
+        padding: 30px 0;
+    }
+
+    .wapper_content h3 {
+        font-size: 19px;
+    }
+
+    .wapper_content h5 {
+        font-size: 19px;
+    }
+
+    .author-head-text ul li,
+    p {
+        font-size: 15px;
+    }
+
+    .author-content .img img {
+        top: -100px;
+        left: 25%;
+    }
+
+    .profesional h1 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .profesional-row p {
+        font-size: 17px;
+    }
+
+    .profesional p {
+        font-size: 16px;
+    }
+
+    .modulo h3 {
+        font-size: 23px;
+        padding-bottom: 10px;
+    }
+}
+
+@media all and (max-width:375px) {
+    .profesional-row p {
+        font-size: 16px;
+    }
+
+    .modulo h3 {
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 375px) {
+    .wapper_content h1 {
+        font-size: 29px;
+        padding: 30px 0;
+    }
+
+    .wapper_content h3 {
+        font-size: 19px;
+    }
+
+    .wapper_content h5 {
+        font-size: 19px;
+    }
+
+    .profesional h1 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .profesional-row p {
+        font-size: 17px;
+    }
+
+    .modulo h3 {
+        font-size: 23px;
+        padding-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 360px) and (min-width: 360px) {
+    .profesional-row p {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width:359px) {
+    .wapper_content h1 {
+        font-size: 25px;
+        padding: 30px 0;
+    }
+
+    .wapper_content h3 {
+        font-size: 17px;
+    }
+
+    .wapper_content h5 {
+        font-size: 17px;
+    }
+
+    .wapper_ftr_logo h5 {
+        font-size: 17px;
+    }
+
+    .heading-text h2 {
+        font-size: 17px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .author-head-text ul li,
+    p {
+        font-size: 14px;
+    }
+
+    .profesional-row p {
+        font-size: 15px;
+    }
+}
+
+@media all and (max-width:350px) {
+    .client h5 {
+        font-size: 20px;
+    }
+}
